@@ -10,7 +10,7 @@
 /*elementos base*/
 body{
 background: var(--preta);
-font-family: 'Times New Roman',Times,serif;
+font-family: Times New Roman ,Times,serif;
 color: white;
 }
 header .container{
@@ -23,7 +23,7 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family:'Arial Black',Times;
+    font-family:Arial Black,Times;
     font-size: 40px;
 }
 
@@ -81,4 +81,10 @@ color: #FFF;
 }
 .filme-principal .container{
     width:70%;
+}
+
+.box-filme{
+    height: 5%;
+    width: 5%;
+    display: block;
 }
