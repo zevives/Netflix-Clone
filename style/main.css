@@ -51,6 +51,7 @@ color: #FFF;
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 90px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .titulo{
     margin-top: 15%;
@@ -77,4 +78,7 @@ color: #FFF;
 }
 .botao i{
     margin-right: 8px;
+}
+.filme-principal .container{
+    width:70%;
 }
